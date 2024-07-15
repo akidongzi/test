@@ -1,0 +1,16 @@
+{
+    "name": "test/sdk",
+    "autoload": {
+        "psr-4": {
+            "Test\\Sdk\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "17337606168",
+            "email": "1609405705@qq.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
